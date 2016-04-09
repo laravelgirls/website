@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Laravelgirls\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
