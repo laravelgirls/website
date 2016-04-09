@@ -429,12 +429,33 @@ a.affix-logo {
     color: #fafafa;
     border-radius: 5px;
 }
+
+.btn-services {
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin: 20px 6px;
+    padding: 10px 30px;
+    background-color: #fafafa;
+    border: 1px solid #03C9A9;
+    color: #03C9A9;
+    border-radius: 5px;
+}
+
 .btn-intro:hover,
 .btn-intro:focus {
     color: #fff;
     border: 1px solid #03B598;
     background-color: #03B598;
 }
+
+.btn-services:hover,
+.btn-services:focus {
+    color: #fff;
+    border: 1px solid #03B598;
+    background-color: #03B598;
+}
+
 .btn-home {
     font-weight: 400;
     font-size: 14px;
