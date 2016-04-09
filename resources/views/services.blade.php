@@ -8,8 +8,9 @@
                             <i class="icon-document"></i>
                         </div>
                         <div class="description-box">
-                            <h4>PHP Labs</h4>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+                            <h4>PHP/Laravel Labs</h4>
+                            <p>Unlimited access to tons of hands-on labs to get you started speedily with coding from novice to pro in no time</p>
+                            </a>
                         </div>
                     </div>
                </article>
@@ -20,29 +21,30 @@
                         </div>
                         <div class="description-box">
                             <h4>Workshops</h4>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+                            <p>See previous code workshops or signup for upcoming workshops around you, Nairobi, kenya or Lagos, Nigeria</p>
+                            </a>                        
+                        </div>
+                    </div> 
+               </article>
+               <article class="col-md-3">
+                    <div class="service-box" data-animated="fadeInUp">
+                        <div class="icon-box">
+                            <i class="icon-map"></i>
+                        </div>
+                        <div class="description-box">
+                            <h4>Meetups</h4>
+                            <p>Attend regular meetups where you get the chance to meet with other developers</p>
                         </div>
                     </div>
                </article>
                <article class="col-md-3">
                     <div class="service-box" data-animated="fadeInUp">
                         <div class="icon-box">
-                            <i class="icon-layers"></i>
+                            <i class="icon-trophy"></i>
                         </div>
                         <div class="description-box">
-                            <h4>Tutorials</h4>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
-                        </div>
-                    </div>
-               </article>
-               <article class="col-md-3">
-                    <div class="service-box" data-animated="fadeInUp">
-                        <div class="icon-box">
-                            <i class="icon-gears"></i>
-                        </div>
-                        <div class="description-box">
-                            <h4>Blog</h4>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+                            <h4>Code Challenges</h4>
+                            <p>Participate in hackathons and code challenges</p>
                         </div>
                     </div>
                </article>

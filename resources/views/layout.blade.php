@@ -34,7 +34,6 @@
     @include('services')
     @include('about')
     @include('porfolio')
-    @include('faq')
     @include('contact')
     @include('footer')
 
